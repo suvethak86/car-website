@@ -16,9 +16,8 @@ Welcome to the Car Website project! This repository contains the source code and
 **JavaScript:** Interactive elements and dynamic content loading.
 **Bootstrap:** CSS framework for responsive design and UI components.
 
+![Untitled design (2)](https://github.com/suvethak86/car-website/assets/140415267/66c243b4-1f16-4b40-bca5-8840626990a4)
 
-
-![Uploading Untitled design (2).png…]()
 
 
 
