@@ -15,8 +15,15 @@ Welcome to the Car Website project! This repository contains the source code and
 **CSS3:** Styling and layout, including media queries for responsiveness.
 **JavaScript:** Interactive elements and dynamic content loading.
 **Bootstrap:** CSS framework for responsive design and UI components.
-![Screenshot (135)](https://github.com/suvethak86/car-website/assets/140415267/9eb06ad7-a8ca-4236-aabc-fd1e85de905d)
-![Screenshot (133)](https://github.com/suvethak86/car-website/assets/140415267/ab76606a-6cbc-4ef5-aa89-ec3f0c030e3e)
-![Screenshot (131)](https://github.com/suvethak86/car-website/assets/140415267/cf8b4b06-f8c3-420e-a6f0-60d9a98828d6)
-![Screenshot (129)](https://github.com/suvethak86/car-website/assets/140415267/0cfd9ca6-3a24-4cb9-896c-89f9d0b5bbb4)
+
+
+
 ![Screenshot (128)](https://github.com/suvethak86/car-website/assets/140415267/b00f24cd-2f96-4eca-9496-4d28e7cf0be7)
+![Screenshot (129)](https://github.com/suvethak86/car-website/assets/140415267/0cfd9ca6-3a24-4cb9-896c-89f9d0b5bbb4)
+![Screenshot (131)](https://github.com/suvethak86/car-website/assets/140415267/cf8b4b06-f8c3-420e-a6f0-60d9a98828d6)
+![Screenshot (133)](https://github.com/suvethak86/car-website/assets/140415267/ab76606a-6cbc-4ef5-aa89-ec3f0c030e3e)
+![Screenshot (135)](https://github.com/suvethak86/car-website/assets/140415267/9eb06ad7-a8ca-4236-aabc-fd1e85de905d)
+
+
+
+
